@@ -31,7 +31,7 @@ const MODEL_MAPPING = {
   'claude-3-sonnet': 'openai/gpt-oss-20b',
   'gemini-pro': 'nvidia/llama-3.1-nemotron-ultra-253b-v1',
  
-  // 🔷 GLM Models (Z-AI / Zhipu) — select these directly in Janitor AI
+  //  GLM Models (Z-AI / Zhipu) — select these directly in Janitor AI
   'glm-4':         'z-ai/glm-4-9b-chat',   // Lightweight GLM-4
   'glm-4.7':       'z-ai/glm-4-0520',      // GLM-4.7 (May 2024 release)
   'glm-4.7-plus':  'z-ai/glm-4-plus',      // GLM-4.7 Plus (stronger)
